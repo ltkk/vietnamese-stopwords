@@ -1,6 +1,5 @@
 # Danh sách stopwords tiếng việt
-Xây dựng kết hợp từ hơn 500k bài viết của wiki`(đã chạy)` + hơn 19GB dữ liệu báo chí Việt Nam`(chưa chạy do thiếu RAM)`
-[vietnamese_stopwords.txt](stopwords.txt)
+Xây dựng danh sách stopword từ hơn 500k bài viết của wiki
 
 # Dữ liệu
 - Dữ liệu Wiki dump tiếng việt gồm hơn 500.000 bài viết(15/01/2019) `viwiki-latest-pages-articles.xml.bz2`
